@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="Bienvenidos a Bluelock Fanpage"/>
+    <img alt="bluelock" src="../assets/bluelock.jpeg">
   </div>
 </template>
 
